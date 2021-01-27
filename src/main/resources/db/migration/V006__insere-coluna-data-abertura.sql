@@ -1,0 +1,1 @@
+alter table ordem_servico add data_abertura datetime not null;
